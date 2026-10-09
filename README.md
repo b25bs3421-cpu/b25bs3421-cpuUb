@@ -5,7 +5,11 @@ S
 S
 S
 S
-S
+SX
+X
+XX
+X
+
 S
 S
 S
