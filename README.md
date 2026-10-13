@@ -8,7 +8,7 @@ S
 SX
 X
 XX
-X
+Xssssssssssssssssss
 
 S
 S
