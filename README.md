@@ -6,9 +6,7 @@ S
 SAAAAAAAAAAAAAAA
 Sdddddddd
 SX
-Xddddddddddddddssssssss
-XX
-Xssssssssssssssssss
+Xddddddddddddddssssssss                      cccccccccccccccc
 ssssssssssssssss
 Sbbbbbbb
 Sffffffffff
